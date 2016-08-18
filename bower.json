@@ -1,0 +1,17 @@
+{
+    "name": "princesssofia-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Tart Workshop"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/princesssofia-bower.git"
+    },
+    "description": "Princess Sofia font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
